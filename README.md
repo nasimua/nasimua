@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/nasimua" target="blank"><img src="https://img.shields.io/twitter/follow/nasimua?logo=twitter&style=for-the-badge" alt="nasimua" /></a> </p>
 
-- ⚡ Fun fact **I am amazing at sports.. Yes... all of them :D**
+## ⚡ Fun fact **I am amazing at sports.. Yes... all of them :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
