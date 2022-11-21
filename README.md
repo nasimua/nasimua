@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasim</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<p> I am a learner who is always looking to gain knowledge. While I consider myself a master of sports, I am looking to sink my teeth into the world of tech through coding. My goal is to learn fullstack development and <strong>take over the tech world</strong>. f you'd like to help me in my quest, please reach out to me :) </p>
+<p> I am a learner who is always looking to gain knowledge. While I consider myself a master of sports, I am looking to sink my teeth into the world of tech through coding. My goal is to learn fullstack development and <strong>take over the tech world</strong>. If you'd like to help me in my quest, please reach out to me :) </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasimua&label=Profile%20views&color=0e75b6&style=flat" alt="nasimua" /> </p>
 
