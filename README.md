@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasim</h1>
 <h3 align="center">Aspiring Developer</h3>
 
-<p> I am tech enthusiast who is looking to develop a career in the tech industry, and continuously gain knowledge and experience. While m first pasion is all things sporty, I am looking to sink my teeth into the world of tech through coding and software development. Currentl, I am focusing on frontend development, but ultimately, I would like to become a fullstack developer and. If you'd like to help me on my journey, please reach out to me :) </p>
+<p> I am tech enthusiast who is looking to develop a career in the tech industry, and continuously gain knowledge and experience. While my first pasion is all things sporty, I am looking to sink my teeth into the world of tech through coding and software development. Currently, I am focusing on frontend development, but ultimately, I would like to become a fullstack developer. If you'd like to help me on my journey, please reach out to me :) </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasimua&label=Profile%20views&color=0e75b6&style=flat" alt="nasimua" /> </p>
 
