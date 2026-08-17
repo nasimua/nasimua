@@ -79,7 +79,7 @@ My day-to-day work focuses on creating highly personalised customer journeys, ma
 
 ## ⚡ Fun Fact
 
-🏆 I'm a huge sports fan. If there's a sport available, I'll probably tell you I'm decent at it... whether that's true or not is another story 😄
+🏆 I'm amazing at sports... yes... all of them 😄
 
 ---
 
