@@ -86,29 +86,18 @@ My day-to-day work focuses on creating highly personalised customer journeys, ma
 ## 🤝 Connect With Me
 
 <p align="left">
-" target="_blank">
-.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-</a>
-&nbsp;&nbsp;
-https://github.com/nasimua
-gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
-</a>
-</p>
+  <a href="https://linkedin.com/in/nasimua" target="_blank">
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
+  </a>
 
----
+  &nbsp;&nbsp;
 
-## 📊 GitHub Stats
-
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=nasimua&show_icons=true&theme=tokyonight
-</p>
-
-<p align="center">
-  ://github-readme-streak-stats.herokuapp.com/?user=nasimua&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  ats.vercel.app/api/top-langs/?username=nasimua&layout=compact&theme=tokyonight" alt="Top Languages" />
+  https://github.com/nasimua
+    /devicons/devicon/icons/github/github-original.svg"
+         alt="GitHub"
+         height="30"
+         width="30" />
+  </a>
 </p>
 
 ---
