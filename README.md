@@ -87,16 +87,7 @@ My day-to-day work focuses on creating highly personalised customer journeys, ma
 
 <p align="left">
   <a href="https://linkedin.com/in/nasimua" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  https://github.com/nasimua
-    /devicons/devicon/icons/github/github-original.svg"
-         alt="GitHub"
-         height="30"
-         width="30" />
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>
 
